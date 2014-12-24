@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Test - Intent classifier for clothing shopping
+Hi There,
+This is just a test... let's see how it works
